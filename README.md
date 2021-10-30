@@ -1,1 +1,1 @@
-# B26
+# low variance filter
